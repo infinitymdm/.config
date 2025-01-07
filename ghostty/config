@@ -1,0 +1,32 @@
+# Theming
+theme = Monokai Pro Spectrum
+font-family = "NotoMono Nerd Font"
+foreground = f0eee6
+
+# No titlebar
+# gtk-titlebar = false
+
+# Keybinds
+keybind = clear
+keybind = ctrl+shift+i=copy_to_clipboard
+keybind = ctrl+shift+o=paste_from_clipboard
+keybind = ctrl+shift+a=select_all
+keybind = alt+home=scroll_to_top
+keybind = alt+end=scroll_to_bottom
+keybind = alt+page_up=scroll_page_up
+keybind = alt+page_down=scroll_page_down
+keybind = ctrl+alt+t=new_tab
+keybind = ctrl+tab=next_tab
+keybind = super+ctrl+tab=toggle_tab_overview
+keybind = ctrl+alt+m=new_split:left
+keybind = ctrl+alt+comma=new_split:down
+keybind = ctrl+alt+period=new_split:up
+keybind = ctrl+alt+slash=new_split:right
+keybind = ctrl+alt+j=goto_split:left
+keybind = ctrl+alt+k=goto_split:bottom
+keybind = ctrl+alt+l=goto_split:top
+keybind = ctrl+alt+semicolon=goto_split:right
+keybind = ctrl+alt+e=equalize_splits
+keybind = ctrl+alt+q=close_surface
+keybind = ctrl+enter=toggle_fullscreen
+keybind = ctrl+shift+comma=reload_config

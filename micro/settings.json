@@ -1,0 +1,13 @@
+{
+    "diffgutter":   true,
+    "indentchar":   "⇥",
+    "mkparents":    true,
+    "rmtrailingws": true,
+    "saveundo":     true,
+    "tabstospaces": true,
+
+    "ft:verilog": {
+        "commenttype":  "// %s",
+        "tabsize":      4
+    }
+}
