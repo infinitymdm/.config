@@ -2,6 +2,7 @@
 theme = Monokai Pro Spectrum
 font-family = "NotoMono Nerd Font"
 foreground = f0eee6
+cursor-opacity = 0.6
 
 # No titlebar
 # gtk-titlebar = false
